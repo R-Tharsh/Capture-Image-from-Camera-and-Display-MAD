@@ -1,0 +1,2 @@
+rootProject.name = "Image handling - IT20075880"
+include ':app'
